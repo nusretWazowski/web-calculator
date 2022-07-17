@@ -1,2 +1,2 @@
 # web-calculator
-Simple calculator on the web using vanilla JS.
+A simple JavaScript calculator demonstrating the use of an object
